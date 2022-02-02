@@ -7,7 +7,7 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ## The role of Visitor
 
-### :house_with_garden: Home page
+### :house: Home page
 
 ![pocetna1](https://user-images.githubusercontent.com/62118800/152207780-e7b3a0e3-599b-4d47-8921-cc50185d75cf.PNG)
 
@@ -31,7 +31,7 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ![prijava](https://user-images.githubusercontent.com/62118800/152205533-17e7789c-fc58-447f-87a0-87ce5655062a.PNG)
 
-### 🧑‍🦲 Profile
+### :person_bald: Profile
 
 ![profil](https://user-images.githubusercontent.com/62118800/152207412-82ce61d4-970d-443d-8aa4-03f41886c5b5.PNG)
 
@@ -39,7 +39,7 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ![prikaz svih knjiga](https://user-images.githubusercontent.com/62118800/152207339-842d1157-1d92-4b4c-abaa-1d941ed7925b.PNG)
 
-### :mag_right: More detailed book information 
+### :mag_right: Information about reserved books 
 
 ![moje rezervacije](https://user-images.githubusercontent.com/62118800/152207453-1b136df4-10c3-4b8b-9749-261c2980f685.PNG)
 
@@ -50,11 +50,19 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ## The role of Administrator
 
+### :books: Review of one book
+
 ![jedna knjiga](https://user-images.githubusercontent.com/62118800/152209316-daa13e6b-c2ff-4a58-a8ad-c43a6ff316ad.PNG)
+
+### :books: Review of one book
 
 ![dodavanje knjige](https://user-images.githubusercontent.com/62118800/152209217-471be534-dac6-41f0-8cc7-4ee62ff31dcd.PNG)
 
+### :books: Book update
+
 ![update knjige](https://user-images.githubusercontent.com/62118800/152209288-98c0cd9a-1509-4fee-b40c-d9f86eaf979a.PNG)
+
+### 📋 All reservations
 
 ![sve rezervacije](https://user-images.githubusercontent.com/62118800/152209382-6c472c4a-f235-4fa1-8270-5baeef549233.PNG)
 
