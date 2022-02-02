@@ -3,6 +3,15 @@ Web application for online reservation books in library.
 
 For backend of application is used Spring Boot, frontend is built in React.js. Database is created with PostgreSQL.
 
+The application should provide access for two types of users. On the one hand, application access admin, and other registered users. Both admin and registered users log in to the web portal through the same login page, which determines based on the role whether it is an admin or a registered user. 
+
+If the user logs in as an admin, the application should allow him to add, change and deletes data on authors, genres, publishers as well as books. It also has the ability to delete other users. The admin should have an insight into the individual movement of each book, as well as in there is also a review of currently booked books at all times.
+
+Each book should be included in a certain genre, and in addition to general information, it should be short description and photo of cover. 
+
+If the user logs in as a registered user, the application should enable it review of books by genres, the ability to search by certain parameters. In addition, registered
+users should have an overview of their current reservations. For books currently reserved, the registered user can see the expected expiration date
+
 ## 📷 Some photos of the web application:
 
 ## The role of Visitor
