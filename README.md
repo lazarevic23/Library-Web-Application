@@ -65,5 +65,10 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ![sve rezervacije](https://user-images.githubusercontent.com/62118800/152209382-6c472c4a-f235-4fa1-8270-5baeef549233.PNG)
 
+### 📋 All authors
+
+![svi autori](https://user-images.githubusercontent.com/62118800/152214791-c962fa66-bae2-4d03-8f00-fccb9d9f3313.PNG)
+
+
 
 
