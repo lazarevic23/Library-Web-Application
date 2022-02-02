@@ -31,13 +31,19 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ![prijava](https://user-images.githubusercontent.com/62118800/152205533-17e7789c-fc58-447f-87a0-87ce5655062a.PNG)
 
-![prikaz svih knjiga](https://user-images.githubusercontent.com/62118800/152207339-842d1157-1d92-4b4c-abaa-1d941ed7925b.PNG)
+### 🧑‍🦲 Profile
 
 ![profil](https://user-images.githubusercontent.com/62118800/152207412-82ce61d4-970d-443d-8aa4-03f41886c5b5.PNG)
 
-### :mag_right: More detailed product information 
+### :1234: List of all books
+
+![prikaz svih knjiga](https://user-images.githubusercontent.com/62118800/152207339-842d1157-1d92-4b4c-abaa-1d941ed7925b.PNG)
+
+### :mag_right: More detailed book information 
 
 ![moje rezervacije](https://user-images.githubusercontent.com/62118800/152207453-1b136df4-10c3-4b8b-9749-261c2980f685.PNG)
+
+### :mag_right: Confirmation of reservation
 
 ![potvrda rezervacije](https://user-images.githubusercontent.com/62118800/152207550-372f1da9-57bc-419c-8555-d1b6d9d21256.PNG)
 
