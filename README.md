@@ -7,7 +7,7 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 
 ## The role of Visitor
 
-### Pocetna
+### :house_with_garden: Home page
 
 ![pocetna1](https://user-images.githubusercontent.com/62118800/152207780-e7b3a0e3-599b-4d47-8921-cc50185d75cf.PNG)
 
@@ -24,7 +24,6 @@ For backend of application is used Spring Boot, frontend is built in React.js. D
 ### :1234: Books subcategory view by an unregistered user
 
 ![prikaz svih knjiga sve](https://user-images.githubusercontent.com/62118800/152204227-ae09bc39-4465-44f4-b37c-938f125f580b.PNG)
-
 
 ## The role of Registered user
 
